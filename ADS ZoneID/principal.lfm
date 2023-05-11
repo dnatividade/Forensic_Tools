@@ -1,0 +1,63 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 607
+  Height = 400
+  Top = 236
+  Width = 637
+  BorderStyle = bsToolWindow
+  Caption = 'Get ZoneIdentifier'
+  ClientHeight = 400
+  ClientWidth = 637
+  Color = 6118749
+  LCLVersion = '2.0.12.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 64
+    Top = 0
+    Width = 637
+    Align = alTop
+    ClientHeight = 64
+    ClientWidth = 637
+    TabOrder = 0
+    object btGetSrcFile: TBitBtn
+      Left = 32
+      Height = 30
+      Top = 16
+      Width = 248
+      Caption = '&Obter origem de um arquivo'
+      Kind = bkRetry
+      OnClick = btGetSrcFileClick
+      TabOrder = 0
+    end
+    object btHelp: TBitBtn
+      Left = 536
+      Height = 30
+      Top = 16
+      Width = 75
+      Caption = 'Ajuda'
+      Kind = bkHelp
+      OnClick = btHelpClick
+      TabOrder = 1
+    end
+  end
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 23
+    Top = 377
+    Width = 637
+    Panels = <>
+  end
+  object log1: TMemo
+    Left = 0
+    Height = 313
+    Top = 64
+    Width = 637
+    Align = alClient
+    Color = 11579568
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 408
+    Top = 17
+  end
+end
