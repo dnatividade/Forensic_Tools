@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="wlv.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="3" Y="26"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="54" Column="5" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="31" Column="67" TopLine="20"/>
+      </Position2>
+      <Position3>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="32" Column="57" TopLine="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="31" Column="78" TopLine="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="25" Column="53" TopLine="20"/>
+      </Position5>
+      <Position6>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="31" Column="50" TopLine="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="32" Column="30" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="25" Column="64" TopLine="20"/>
+      </Position8>
+      <Position9>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="32" Column="80" TopLine="22"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
