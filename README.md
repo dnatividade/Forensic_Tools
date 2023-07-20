@@ -3,6 +3,7 @@
 ### ADS ZoneID
 ```
 Descubra de onde veio um arquivo baixado.
+Funciona apenas em sistemas de arquivos NTFS.
 ``` 
 
 ### Windows Log View
