@@ -9,8 +9,8 @@
         <Filename Value="wlv.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="78"/>
-        <CursorPos Y="102"/>
+        <TopLine Value="145"/>
+        <CursorPos Y="169"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -22,7 +22,7 @@
         <DefaultSyntaxHighlighter Value="Text"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="12" HistoryIndex="11">
+    <JumpHistory Count="17" HistoryIndex="16">
       <Position1>
         <Filename Value="wlv.lpr"/>
         <Caret Line="54" Column="5" TopLine="19"/>
@@ -71,6 +71,26 @@
         <Filename Value="wlv.lpr"/>
         <Caret Line="98" TopLine="74"/>
       </Position12>
+      <Position13>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="144" TopLine="120"/>
+      </Position13>
+      <Position14>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="136" TopLine="112"/>
+      </Position14>
+      <Position15>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="103" Column="12" TopLine="91"/>
+      </Position15>
+      <Position16>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="136" TopLine="112"/>
+      </Position16>
+      <Position17>
+        <Filename Value="wlv.lpr"/>
+        <Caret Line="103" Column="60" TopLine="92"/>
+      </Position17>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
