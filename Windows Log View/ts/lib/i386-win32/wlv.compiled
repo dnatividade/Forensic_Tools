@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus_x32\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-Fie:\Projetos\Forensic Tools_git\Windows Log View\0.1\lib\i386-win32&quot; &quot;-Fue:\Projetos\Forensic Tools_git\Windows Log View\0.1\&quot; &quot;-FUe:\Projetos\Forensic Tools_git\Windows Log View\0.1\lib\i386-win32\&quot; &quot;-FEe:\Projetos\Forensic Tools_git\Windows Log View\0.1\&quot; &quot;-oe:\Projetos\Forensic Tools_git\Windows Log View\0.1\wlv.exe&quot; wlv.lpr"/>
-</CONFIG>
