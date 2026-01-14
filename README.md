@@ -11,7 +11,7 @@ Funciona apenas em sistemas de arquivos NTFS.
 
 ### Quando Desligou Windows
 ```
-Script em VBS que mostra quando foi a última vez que o WIndows foi desligado.
+Script em VBS que mostra quando foi a última vez que o Windows foi desligado.
 ```
 
 ### Windows Log View
